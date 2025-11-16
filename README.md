@@ -2,13 +2,10 @@
 ## Aim:
 To explore the Hands-on UI/UX Experiments
 ## Algorithm:
-1.Learn the Basics Understand what UI (visual design) and UX (user experience) mean, and why both are important.
-
-2.Use Real Examples Compare popular apps to see the difference between UI (look) and UX (feel).
-
-3.Show the Connection Design a simple screen and test how UI changes affect the user experience.
-
-4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
+a. Explore the fundamentals of UI and UX
+b. Differentiate between UI and UX using real-world case studies.
+c. Illustrate the relationship between UI and UX in design.
+d. Demonstrate various UI/UX design tools in detail.
 
 ## Output:
 [1000053990 (2) (2).pdf](https://github.com/user-attachments/files/23568953/1000053990.2.2.pdf)
